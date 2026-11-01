@@ -1,171 +1,230 @@
+<!-- ========================================================= -->
+<!--                    SACHIN S GUNAGI                        -->
+<!--              Modern Developer Portfolio README            -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-# 👋 Hi, I'm Sachin S Gunagi
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,50:172554,100:0891B2&text=SACHIN%20S%20GUNAGI&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Applied%20AI&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
 
-### `Computer Science Engineer` · `Full-Stack Developer` · `AI Enthusiast`
+<br/>
 
-<p>
-  <a href="https://github.com/Sachu651g">
-    <img src="https://img.shields.io/badge/GitHub-Sachu651g-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/sachin-s-gunagi-679902282">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:sachingunagi424@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Full-Stack+Applications;Designing+Backend+%26+REST+APIs;Exploring+Applied+AI+%26+LLM+Systems;Turning+Ideas+into+Working+Products;Build+%E2%86%92+Understand+%E2%86%92+Improve+%E2%86%92+Ship" alt="Typing animation"/>
 
-<img src="https://komarev.com/ghpvc/?username=Sachu651g&style=flat-square&color=2563EB&label=PROFILE+VIEWS" />
+<br/><br/>
+
+<a href="https://github.com/Sachu651g">
+<img src="https://img.shields.io/badge/GitHub-Sachu651g-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/sachin-s-gunagi-679902282">
+<img src="https://img.shields.io/badge/LinkedIn-Sachin%20S%20Gunagi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:sachingunagi424@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Sachu651g&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
-
-I'm **Sachin S Gunagi**, a Computer Science Engineering student at **Sri Sairam College of Engineering, Bengaluru**, passionate about building practical software solutions across **full-stack development, backend engineering, and applied AI**.
-
-I enjoy transforming ideas into working products — from responsive interfaces and REST APIs to database-driven applications, intelligent systems, dashboards, and AI-assisted workflows.
+# 👨‍💻 `whoami`
 
 ```text
-🎓 B.E. Computer Science & Engineering     2023 – 2027
-📈 CGPA                                    8.6 / 10
-💻 Primary Language                         Java
-🌐 Development                             Full-Stack / Backend
-🤖 AI                                      Applied AI & AI-assisted Development
-🔐 Interests                               Secure & Intelligent Applications
-📍 Location                                Bengaluru, India
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  Sachin S Gunagi                                             │
+│  ─────────────────────────────────────────────────────────   │
+│                                                              │
+│  🎓  B.E. Computer Science & Engineering                     │
+│      Sri Sairam College of Engineering, Bengaluru            │
+│                                                              │
+│  📅  2023 – 2027                                             │
+│  📈  CGPA: 8.6 / 10                                         │
+│                                                              │
+│  💻  Full-Stack Development                                  │
+│  ⚙️  Backend & REST APIs                                     │
+│  🤖  Applied AI & AI-assisted Development                    │
+│  🔐  Secure Application Development                          │
+│                                                              │
+│  🏆  Hackathon Participant & Team Lead                       │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
-### What I Bring
+I enjoy building systems where **software engineering meets practical problem solving** — from secure backend services and database-driven applications to AI-powered decision-support and multi-agent systems.
 
-- Strong foundation in **Java, OOP and problem solving**
-- Experience developing **full-stack web applications**
-- Hands-on experience with **REST API development**
-- Working knowledge of **PostgreSQL and MySQL**
-- Experience integrating **AI APIs and AI-assisted development tools**
-- Experience working in **team-based hackathons and projects**
-- Currently serving as **Team Lead** for a Visitor & Gate Pass Management System
+My current goal is simple:
+
+> **Become a stronger software engineer by building, understanding and continuously improving real systems.**
 
 ---
 
-# 🛠️ Technical Skills
+# ⚡ Engineering Stack
 
-### 💻 Programming Languages
+<div align="center">
 
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-<img src="https://img.shields.io/badge/JavaScript-Basic-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+### `PROGRAMMING`
 
-### 🌐 Web Development
+<img src="https://skillicons.dev/icons?i=java,c,js" />
 
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-</p>
+<br/><br/>
 
-### 🗄️ Databases & APIs
+### `WEB & BACKEND`
 
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-Basic-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-Basic-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/JWT-Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,nodejs,express,fastapi" />
 
-### 🤖 AI & Modern Development
+<br/><br/>
 
-<p>
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/Google_Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI--assisted_Development-0F766E?style=for-the-badge" />
-</p>
+### `DATABASES`
 
-### 🔧 Tools
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
 
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
+<br/><br/>
+
+### `AI / DEVELOPMENT`
+
+<img src="https://skillicons.dev/icons?i=python,docker,git,github,postman,vscode" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Google%20Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-7C3AED?style=for-the-badge"/>
+
+</div>
 
 ---
 
-# 🚀 Featured Projects
+# 🧬 How I Build
 
-> A selection of projects demonstrating my experience across **AI, full-stack engineering, backend development, cybersecurity, and intelligent systems**.
+<div align="center">
+
+```text
+       ┌──────────────┐
+       │     IDEA     │
+       └──────┬───────┘
+              │
+              ▼
+       ┌──────────────┐
+       │   ARCHITECT  │
+       └──────┬───────┘
+              │
+              ▼
+       ┌──────────────┐
+       │     CODE     │
+       └──────┬───────┘
+              │
+              ▼
+       ┌──────────────┐
+       │    TEST      │
+       └──────┬───────┘
+              │
+              ▼
+       ┌──────────────┐
+       │    SHIP      │
+       └──────┬───────┘
+              │
+              ▼
+       ┌──────────────┐
+       │   IMPROVE    │◀────────┐
+       └──────────────┘         │
+              │                 │
+              └─────────────────┘
+```
+
+</div>
+
+---
+
+# 🚀 Featured Engineering Work
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-## 🛡️ Guardian AI
+### 🛡️ Guardian AI
 
-### Cybersecurity Incident Management Platform
+**Cybersecurity Incident Management Platform**
 
-Full-stack cybersecurity incident management platform designed to help teams **track, manage and respond to security incidents**.
+A full-stack cybersecurity platform designed around incident tracking, role-based workflows and security operations.
 
-**Key Features**
+**Architecture**
 
-- 🔐 Role-Based Access Control
-- 👥 Reporter, Analyst & Admin roles
-- 🔑 JWT authentication
-- 🔒 bcrypt password hashing
-- 🗄️ PostgreSQL database
-- 📊 Incident severity analytics
-- ⚡ Live activity dashboard
-- 🔌 REST API architecture
+```text
+React
+  ↓
+REST API
+  ↓
+Node.js / Express
+  ↓
+PostgreSQL
+```
 
-**Tech Stack**
+**Highlights**
 
-`Node.js` `Express.js` `PostgreSQL`  
-`JWT` `bcrypt` `React` `Recharts`
+- Role-Based Access Control
+- Reporter / Analyst / Admin workflows
+- JWT authentication
+- bcrypt password hashing
+- Middleware authorization
+- Real-time activity dashboard
+- Incident severity analytics
+- Recharts visualizations
 
-<br>
+`Node.js` `Express` `PostgreSQL` `JWT`
+
+<br/>
 
 <a href="https://github.com/Sachu651g/Cyber-Security">
-View Repository →
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🌍 Climate Guardian
+### 🌍 Climate Guardian
 
-### AI Disaster Simulation & Decision Support
+**AI Disaster Simulation & Decision Support**
 
-A climate-action platform designed around **coastal disaster simulation and decision support**.
+A climate-action platform designed to help administrators understand disaster scenarios and make informed decisions.
 
-**Key Features**
+**Architecture**
 
-- 🌊 Disaster simulation
-- 🗺️ Interactive Leaflet maps
-- 👥 Population & zone management
-- 📊 Interactive analytics
-- 🔌 REST APIs
-- 🤖 AI-generated decision support
-- 🗄️ PostgreSQL-backed architecture
+```text
+React + TypeScript
+        ↓
+   REST APIs
+        ↓
+Node.js / Express
+        ↓
+    PostgreSQL
+```
 
-**Tech Stack**
+**Highlights**
 
-`React` `TypeScript` `Node.js`  
-`Express` `PostgreSQL` `Leaflet` `Recharts`
+- Disaster simulation
+- Zone & population management
+- Risk data management
+- Interactive Leaflet maps
+- Analytics dashboards
+- AI-generated decision briefs
+- REST API architecture
 
-<br>
+`React` `TypeScript` `Node.js` `PostgreSQL`
 
-<a href="https://github.com/Sachu651g/Climate-Guardian">
-View Repository →
+<br/>
+
+<a href="https://github.com/Sachu651g">
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -176,63 +235,90 @@ View Repository →
 
 <td width="50%" valign="top">
 
-## 🤖 AI Oversight Inspector
+### 🤖 AI Oversight Inspector
 
-### Multi-Agent AI Oversight System
+**Multi-Agent Interaction & Scalable Oversight**
 
-Built for the **Meta × Hugging Face OpenEnv Hackathon Grand Finale** under the **Multi-Agent Interactions & Scalable Oversight** theme.
+Built for the **Meta × Hugging Face OpenEnv Hackathon Grand Finale**.
 
-**Key Features**
+The system explores how multiple agents can interact while a dedicated oversight layer monitors their behaviour.
 
-- 🧠 Multi-agent architecture
-- 🔎 AI oversight and violation detection
-- 🧩 Classifier, Prioritizer, Router & Responder agents
-- ⚡ FastAPI backend
-- 🎨 Gradio interface
-- 🐳 Dockerized environment
-- ☁️ Hugging Face deployment workflow
+**Agent Pipeline**
 
-**Tech Stack**
+```text
+Classifier
+     ↓
+Prioritizer
+     ↓
+Router
+     ↓
+Responder
+     ↓
+Oversight Agent
+```
 
-`Python` `FastAPI` `Gradio`  
-`Docker` `Hugging Face`
+**Highlights**
 
-<br>
+- Multi-agent simulation
+- Dedicated oversight agent
+- Violation detection
+- FastAPI backend
+- Gradio interface
+- Docker environment
+- Hugging Face workflow
+
+`Python` `FastAPI` `Gradio` `Docker`
+
+<br/>
 
 <a href="https://github.com/Sachu651g/AI-Oversight-Inspector">
-View Repository →
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🧠 CogniSentinel
+### 🧠 CogniSentinel
 
-### AI Insurance Fraud Detection MVP
+**AI Insurance Fraud Detection MVP**
 
-A full-stack fraud detection MVP created for the **Cognizant Technoverse Hackathon**.
+A fraud detection system developed for the **Cognizant Technoverse Hackathon**.
 
-**Key Features**
+Claims are evaluated using multiple weighted risk dimensions before generating an interpretable risk assessment.
 
-- 📋 Insurance claim analysis
-- 📊 Multi-dimensional risk scoring
-- 🚨 Fraud risk classification
-- ⚙️ Rule-based fraud engine
-- 🤖 AI-generated explanations
-- 🔄 API-based architecture
-- ⚡ FastAPI backend
-- 🌐 Interactive frontend
+**Pipeline**
 
-**Tech Stack**
+```text
+Claim
+  ↓
+Validation
+  ↓
+Risk Engine
+  ↓
+Fraud Score
+  ↓
+Risk Level
+  ↓
+Explanation
+```
 
-`FastAPI` `Pydantic` `JavaScript`  
-`AI` `Rule Engine`
+**Highlights**
 
-<br>
+- Five-dimensional risk scoring
+- Rule-based fraud engine
+- FastAPI + Pydantic
+- Risk flags
+- AI-generated explanations
+- Rule-based fallback
+- Interactive frontend
+
+`FastAPI` `Pydantic` `JavaScript`
+
+<br/>
 
 <a href="https://github.com/Sachu651g">
-View Repository →
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -242,80 +328,50 @@ View Repository →
 
 ---
 
-# 🏗️ Leadership
+# 🏗️ Current Build
 
-## Visitor & Gate Pass Management System
+<div align="center">
 
-### Team Lead · 2026 – Present
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2600&pause=800&color=22C55E&center=true&vCenter=true&width=650&lines=%E2%97%8F+CURRENTLY+BUILDING...;%E2%97%8F+VISITOR+%26+GATE+PASS+MANAGEMENT+SYSTEM;%E2%97%8F+TEAM+LEAD+%7C+2026+-+PRESENT" />
 
-Currently leading a student development team building a **Visitor & Gate Pass Management System**.
+</div>
 
-### Responsibilities
+### Visitor & Gate Pass Management System
 
-- 👥 Coordinating team members and development tasks
-- 🧩 Managing modular feature development
-- 🔍 Conducting code reviews
-- 🔐 Working on role-based access workflows
-- 🏗️ Helping maintain project architecture
-- 🤝 Collaborating across development modules
+Currently working as **Team Lead**, coordinating a student development team.
+
+**Leadership responsibilities**
 
 ```text
-Leadership
-    │
-    ├── Team Coordination
-    ├── Module Planning
-    ├── Code Reviews
-    ├── Role-Based Workflows
-    └── Project Integration
+Team Coordination
+      │
+      ├── Module Planning
+      │
+      ├── Role-based Workflows
+      │
+      ├── Code Reviews
+      │
+      └── Project Integration
 ```
 
 ---
 
-# 🏆 Hackathons & Achievements
+# 🏆 Hackathon Journey
 
-| Achievement | Experience |
-|---|---|
-| 🥇 **Meta × Hugging Face OpenEnv Hackathon** | Grand Finale — Multi-Agent Interactions & Scalable Oversight |
-| 🌍 **SDG / Climate Action Hackathon** | Climate Guardian disaster decision-support platform |
-| 🛡️ **Cybersecurity Hackathon** | Cybersecurity incident management platform |
-| 🧠 **Cognizant Technoverse Hackathon** | AI-powered insurance fraud detection MVP |
+<div align="center">
 
----
+| 🏁 Event | 🎯 Project / Theme |
+|:---|:---|
+| **Meta × Hugging Face OpenEnv** | Multi-Agent Interactions & Scalable Oversight |
+| **SDG / Climate Action Hackathon** | Climate Disaster Decision Support |
+| **Cybersecurity Hackathon** | Incident Management Platform |
+| **Cognizant Technoverse** | AI Insurance Fraud Detection |
 
-# 📜 Certifications
-
-### Artificial Intelligence: Concepts and Techniques
-**NPTEL**
-
-### Green Skills and Artificial Intelligence Program
-**Edunet Foundation — AICTE & Shell**
-
-### Google AI Essentials
-**Google**
-
-### Fundamentals of Artificial Intelligence
-**Infosys**
+</div>
 
 ---
 
-# 🎓 Education
-
-## Sri Sairam College of Engineering
-
-**B.E. — Computer Science & Engineering**  
-`2023 – 2027` · Bengaluru · VTU
-
-### Academic Performance
-
-| Qualification | Score |
-|---|---:|
-| 🎓 B.E. CSE | **8.6 CGPA** |
-| 📚 Class XII | **87.83%** |
-| 📖 Class X | **76.48%** |
-
----
-
-# 📊 GitHub Analytics
+# 📊 GitHub Intelligence
 
 <div align="center">
 
@@ -331,18 +387,18 @@ alt="GitHub Statistics"/>
 
 <img height="180"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachu651g&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
-alt="Most Used Languages"/>
+alt="Top Languages"/>
 
 </a>
 
-<br><br>
+<br/><br/>
 
 <img
 width="90%"
 src="https://github-readme-streak-stats.herokuapp.com/?user=Sachu651g&theme=tokyonight&hide_border=true"
-alt="GitHub Contribution Streak"/>
+alt="GitHub Streak"/>
 
-<br><br>
+<br/><br/>
 
 <img
 width="95%"
@@ -353,13 +409,126 @@ alt="GitHub Activity Graph"/>
 
 ---
 
-# 📈 Development Focus
+# 📈 Engineering Growth
+
+<div align="center">
 
 ```text
-Java & OOP
-████████████████████░  Strong Focus
+JAVA / OOP
+████████████████████░░   Core Focus
 
-Full-Stack Development
-███████████████████░░  Active
+FULL-STACK
+███████████████████░░░   Active
 
-Backend &
+BACKEND / APIs
+███████████████████░░░   Active
+
+DATABASES
+████████████████░░░░░░   Growing
+
+AI / LLM
+███████████████░░░░░░░   Exploring
+
+SYSTEM DESIGN
+████████████░░░░░░░░░░   Learning
+```
+
+</div>
+
+---
+
+# 📜 Certifications
+
+| Certification | Organization |
+|:---|:---|
+| **Artificial Intelligence: Concepts and Techniques** | NPTEL |
+| **Green Skills and Artificial Intelligence Program** | Edunet Foundation — AICTE & Shell |
+| **Google AI Essentials** | Google |
+| **Fundamentals of Artificial Intelligence** | Infosys |
+
+---
+
+# 🎓 Education
+
+### Sri Sairam College of Engineering
+
+**B.E. Computer Science & Engineering**  
+`2023 – 2027` · Bengaluru · VTU
+
+```text
+CGPA       →  8.6 / 10
+Class XII  →  87.83%
+Class X    →  76.48%
+```
+
+---
+
+# 🔭 What I'm Exploring
+
+<div align="center">
+
+```text
+┌───────────────────────────────────────────────┐
+│                                               │
+│   ☕ Java & OOP                               │
+│          ↓                                    │
+│   🧩 Data Structures & Problem Solving        │
+│          ↓                                    │
+│   ⚙️ Backend Architecture                     │
+│          ↓                                    │
+│   🔐 Secure Application Development           │
+│          ↓                                    │
+│   🤖 LLM & AI Applications                    │
+│          ↓                                    │
+│   🏗️ Production-oriented Systems             │
+│                                               │
+└───────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+# 💭 Engineering Mindset
+
+<div align="center">
+
+### `Build.` → `Understand.` → `Improve.` → `Ship.`
+
+<br/>
+
+> **AI can accelerate development.**
+>
+> **Understanding the system makes you an engineer.**
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+### Open to opportunities in
+
+`Software Engineering` · `Full-Stack Development` · `Backend Engineering` · `Applied AI`
+
+<br/>
+
+<a href="https://github.com/Sachu651g">
+<img src="https://img.shields.io/badge/GitHub-Sachu651g-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sachin-s-gunagi-679902282">
+<img src="https://img.shields.io/badge/LinkedIn-Sachin%20S%20Gunagi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sachingunagi424@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:020617,50:172554,100:0891B2&section=footer&animation=twinkling" width="100%"/>
+
+</div>
